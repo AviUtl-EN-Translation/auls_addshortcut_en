@@ -1,17 +1,15 @@
-¦Memory reference plug-in is required!!
+â€» Memory reference plugin is required!!
 
-Shortcuts related to advanced editing are added.
-From the AviUtl main menu, click File ¨ Preferences ¨ Shortcut Key Settings
-Assign and use shortcut keys.
+Shortcuts related to Advanced editing will be added.
+From the AviUtl main menu, go to "File" -> "SETTING" -> "Shortcut Key"
+Assign shortcut keys and use them.
 
-
-
-Standard drawing, extended drawing and particle output are
-Always change the object that is displayed in the configuration dialog.
-(It is no longer possible to place geometry [particle output] directly on the timeline.)
+Standard drawing, extended drawing, and particle output
+Always change the object in the settings dialog.
+(You can no longer directly place the shape [particle output] on the timeline)
 
 Group control, camera control, and time control
-Always place in the timeline.
+Always place them on the timeline.
 
-You can add filters that are not normally configurable to certain types of objects.
-Some filters cause errors.
+You can add filters that cannot be normally set to certain types of objects.
+Some filters may cause errors.
