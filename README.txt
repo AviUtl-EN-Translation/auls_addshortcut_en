@@ -1,4 +1,4 @@
-※ Memory reference plugin is required!!
+※ [Memory reference plugin](github.com/AviUtl-EN-Translation/auls_memref_en) is required!!
 
 Shortcuts related to Advanced editing will be added.
 From the AviUtl main menu, go to "File" -> "SETTING" -> "Shortcut Key"
