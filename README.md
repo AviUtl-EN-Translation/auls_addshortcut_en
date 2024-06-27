@@ -13,3 +13,5 @@ Always place them on the timeline.
 
 You can add filters that cannot be normally set to certain types of objects.
 Some filters may cause errors.
+
+This plug-in is from [here](https://auls.client.jp/)
