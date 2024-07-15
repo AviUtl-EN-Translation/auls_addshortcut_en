@@ -1,5 +1,7 @@
 ※ [Memory reference plugin](https://github.com/AviUtl-EN-Translation/auls_memref_en) is required!!
 
+※ Except for the English version of [this link](https://hapsung.tistory.com/24) (WebCam's version), it doesn't work with any other version.
+
 Shortcuts related to Advanced editing will be added.
 From the AviUtl main menu, go to "File" -> "SETTING" -> "Shortcut Key"
 Assign shortcut keys and use them.
